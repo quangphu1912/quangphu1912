@@ -12,19 +12,21 @@ agent systems on AWS, with cross-cloud data engineering experience on GCP.
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4A5568?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-4A5568?style=flat-square&logo=terraform&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4A5568?style=flat-square&logo=gnu-bash&logoColor=white)
 
 `AWS`
-![MWAA](https://img.shields.io/badge/-MWAA-0573E6?style=flat-square&logo=apache-airflow&logoColor=white)
 ![Glue](https://img.shields.io/badge/-Glue-0573E6?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Redshift](https://img.shields.io/badge/-Redshift-0573E6?style=flat-square&logo=amazon-aws&logoColor=white)
+![MWAA](https://img.shields.io/badge/-MWAA-0573E6?style=flat-square&logo=apache-airflow&logoColor=white)
 ![Kinesis](https://img.shields.io/badge/-Kinesis-0573E6?style=flat-square&logo=amazon-aws&logoColor=white)
 ![SageMaker](https://img.shields.io/badge/-SageMaker-0573E6?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Bedrock](https://img.shields.io/badge/-Bedrock-0573E6?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Lambda](https://img.shields.io/badge/-Lambda-0573E6?style=flat-square&logo=aws-lambda&logoColor=white)
 ![S3](https://img.shields.io/badge/-S3-0573E6?style=flat-square&logo=amazon-s3&logoColor=white)
+![EC2](https://img.shields.io/badge/-EC2-0573E6?style=flat-square&logo=amazon-aws&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/-CloudFormation-0573E6?style=flat-square&logo=amazon-aws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/-CloudWatch-0573E6?style=flat-square&logo=amazon-aws&logoColor=white)
 
 `GCP`
 ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
