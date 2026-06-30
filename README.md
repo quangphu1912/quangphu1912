@@ -1,22 +1,21 @@
 ### Hi, I'm Phu 👋
 
-Data Scientist specializing in production AI/ML systems and cloud data platforms —
-shipping event-driven pipelines, ML infrastructure, and the data layer
-that makes models deployable and trustworthy at scale.
+Data Scientist - AWS Certified Solutions Architect & Data Engineer,
+specializing in building production ETL pipelines, ML infrastructure,
+and AI agent systems at scale across AWS and GCP.
 
----
-
-#### Cloud & Data Stack
+[![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/3689c0cb-2b65-4186-8524-d37a5b229029)
+[![AWS Data Engineer Associate](https://img.shields.io/badge/AWS-Data%20Engineer%20Associate-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/earner/earned/badge/2cbce644-127c-4ec5-8a1c-ca269f7a8ef7)
 
 **AWS**  
-![S3](https://img.shields.io/badge/-S3-FF9900?style=flat-square&logo=amazon-s3&logoColor=white)
-![Glue](https://img.shields.io/badge/-Glue-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![MWAA](https://img.shields.io/badge/-MWAA-FF9900?style=flat-square&logo=apache-airflow&logoColor=white)
-![Redshift](https://img.shields.io/badge/-Redshift-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![SageMaker](https://img.shields.io/badge/-SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Bedrock](https://img.shields.io/badge/-Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
-![Kinesis](https://img.shields.io/badge/-Kinesis-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![S3](https://img.shields.io/badge/-S3-232F3E?style=flat-square&logo=amazon-s3&logoColor=white)
+![Glue](https://img.shields.io/badge/-Glue-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![MWAA](https://img.shields.io/badge/-MWAA-232F3E?style=flat-square&logo=apache-airflow&logoColor=white)
+![Redshift](https://img.shields.io/badge/-Redshift-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![SageMaker](https://img.shields.io/badge/-SageMaker-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Bedrock](https://img.shields.io/badge/-Bedrock-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Lambda](https://img.shields.io/badge/-Lambda-232F3E?style=flat-square&logo=aws-lambda&logoColor=white)
+![Kinesis](https://img.shields.io/badge/-Kinesis-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 **GCP**  
 ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
@@ -29,22 +28,3 @@ that makes models deployable and trustworthy at scale.
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-#### Certifications
-
-[![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/3689c0cb-2b65-4186-8524-d37a5b229029)
-[![AWS Data Engineer Associate](https://img.shields.io/badge/AWS-Data%20Engineer%20Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/earner/earned/badge/2cbce644-127c-4ec5-8a1c-ca269f7a8ef7)
-
----
-
-## Building
-
-- 🔧 **hermes-agent** — Docker sandbox evaluation runtime + AWS serverless deployment
-- 📐 **aws-ml-platform** — Kinesis → Glue/dbt → Redshift → SageMaker inference endpoint
-- 🤖 **bedrock-agent** — LLM agent framework on Bedrock + Lambda + API Gateway
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/-quangphu1912-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/quangphu1912)
-[![Portfolio](https://img.shields.io/badge/-quangphu1912.github.io-181717?style=flat-square&logo=github&logoColor=white)](https://quangphu1912.github.io)
-[![Email](https://img.shields.io/badge/-quangphu1912@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:quangphu1912@gmail.com)
