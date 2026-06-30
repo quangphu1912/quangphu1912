@@ -1,35 +1,47 @@
 ### Hi, I'm Phu 👋
 
-I came to data engineering from the other side — audit trails and M&A models before
-event streams and data warehouses. That path left me obsessed with one question:
-**how do you make a model you can trust in production, not just in a notebook?**
-
-Now I build event-driven pipelines, cloud data infrastructure, and the reliability layer
-that makes downstream ML actually deployable.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+Data Scientist specializing in production AI/ML systems and cloud data platforms —
+shipping event-driven pipelines, ML infrastructure, and the data layer
+that makes models deployable and trustworthy at scale.
 
 ---
 
-## What I'm building
+#### Cloud & Data Stack
 
-- 🔧 **hermes-agent** *(in progress)* — Docker sandbox evaluation runtime + AWS serverless deployment
-- 📐 **aws-ml-platform** *(designing)* — Kinesis → Glue/dbt → Redshift → SageMaker inference endpoint
-- 🤖 **bedrock-agent** *(planned)* — LLM agent framework on Bedrock + Lambda + API Gateway
+**AWS**  
+![S3](https://img.shields.io/badge/-S3-FF9900?style=flat-square&logo=amazon-s3&logoColor=white)
+![Glue](https://img.shields.io/badge/-Glue-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![MWAA](https://img.shields.io/badge/-MWAA-FF9900?style=flat-square&logo=apache-airflow&logoColor=white)
+![Redshift](https://img.shields.io/badge/-Redshift-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![SageMaker](https://img.shields.io/badge/-SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Bedrock](https://img.shields.io/badge/-Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
+![Kinesis](https://img.shields.io/badge/-Kinesis-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
-## Technical interests
+**GCP**  
+![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Looker](https://img.shields.io/badge/-Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
 
-Event-driven ML pipelines · Data reliability & observability · AWS-native MLOps · LLM agent design
+**Core**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## Currently learning
+#### Certifications
 
-Real-time ML serving at scale · Automated feature stores · Agent orchestration patterns
+[![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/3689c0cb-2b65-4186-8524-d37a5b229029)
+[![AWS Data Engineer Associate](https://img.shields.io/badge/AWS-Data%20Engineer%20Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/earner/earned/badge/2cbce644-127c-4ec5-8a1c-ca269f7a8ef7)
+
+---
+
+## Building
+
+- 🔧 **hermes-agent** — Docker sandbox evaluation runtime + AWS serverless deployment
+- 📐 **aws-ml-platform** — Kinesis → Glue/dbt → Redshift → SageMaker inference endpoint
+- 🤖 **bedrock-agent** — LLM agent framework on Bedrock + Lambda + API Gateway
 
 ## Connect
 
