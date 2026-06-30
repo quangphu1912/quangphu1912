@@ -24,10 +24,9 @@ agent systems on AWS, with cross-cloud data engineering experience on GCP.
 ![Bedrock](https://img.shields.io/badge/-Bedrock-0573E6?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Lambda](https://img.shields.io/badge/-Lambda-0573E6?style=flat-square&logo=aws-lambda&logoColor=white)
 ![S3](https://img.shields.io/badge/-S3-0573E6?style=flat-square&logo=amazon-s3&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/-CloudFormation-0573E6?style=flat-square&logo=amazon-aws&logoColor=white)
 
 `GCP`
 ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Looker](https://img.shields.io/badge/-Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
-
-*Currently exploring: PySpark · vector search for RAG*
