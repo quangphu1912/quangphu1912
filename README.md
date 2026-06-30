@@ -13,6 +13,7 @@ agent systems on AWS, with cross-cloud data engineering experience on GCP.
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4A5568?style=flat-square&logo=gnu-bash&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-4A5568?style=flat-square&logo=terraform&logoColor=white)
 
 `AWS`
 ![MWAA](https://img.shields.io/badge/-MWAA-0573E6?style=flat-square&logo=apache-airflow&logoColor=white)
@@ -28,3 +29,5 @@ agent systems on AWS, with cross-cloud data engineering experience on GCP.
 ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Looker](https://img.shields.io/badge/-Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
+
+*Currently exploring: PySpark · vector search for RAG*
