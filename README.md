@@ -1,8 +1,8 @@
 ### Hi, I'm Phu 👋
 
 Data Scientist - AWS Certified Solutions Architect & Data Engineer,
-specializing in building production ETL pipelines, ML infrastructure,
-and AI agent systems at scale across AWS and GCP.
+specializing in production ETL pipelines, ML infrastructure, and AI
+agent systems on AWS, with cross-cloud data engineering experience on GCP.
 
 [![AWS Solutions Architect Associate](https://img.shields.io/badge/Solutions%20Architect%20Associate-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/3689c0cb-2b65-4186-8524-d37a5b229029)
 [![AWS Data Engineer Associate](https://img.shields.io/badge/Data%20Engineer%20Associate-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/earner/earned/badge/2cbce644-127c-4ec5-8a1c-ca269f7a8ef7)
